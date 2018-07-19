@@ -1,0 +1,21 @@
+{
+  "name": "UI5",
+  "version": "0.0.4",
+  "description": "UI5",
+  "authors": [
+    "Frank Stødle"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "latest"
+  },
+  "devDependencies": {}
+}
